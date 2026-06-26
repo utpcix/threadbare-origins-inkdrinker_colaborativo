@@ -1,6 +1,6 @@
 # Available modifications
 
-## Challenge
+## Challenge / Desafios Nuevos
 
 ### Tiempo Limite
 
